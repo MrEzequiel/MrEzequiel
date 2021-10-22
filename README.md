@@ -1,14 +1,29 @@
-### Hi there 👋, meu nome é Ezequiel
-#### Muito prazer!
+<img src="https://i.imgur.com/KoLSW8b.png" width="100%">
 
-Estou no mundo da programação, sempre querendo aprender mais! Apaixonado por design e desenvolvimento front-end.
+### Hi there 👋, eu sou o Ezequiel
 
-- 🌍 Rio Branco, Acre - Brasil
+* * *
 
-- ⚛ React
-- 💻 HTML, CSS, JS
+**Sobre mim:**
 
+- 💻 Sou desenvolvedor Front End
+- 🚀 Produzindo conteúdo no [instagram](https://www.instagram.com/ezequield3v)
+- 📝 Estou me graduando em Sistemas para Internet
+- ✨ Tentando te ajudar a evoluir no mundo da programação pelo [Youtube](https://www.youtube.com/channel/UCkkSvYdYZq4F4nGvd4ec-kw) (futuramente)
+- 📫 Como você pode me encontar: [linkedIn](https://www.linkedin.com/in/ezequiel-soares-da-silva-b64a64207/) e [instagram](https://www.instagram.com/ezequield3v)
+
+* * *
+
+**Linguagens e ferramentas:**
+
+<img align="left" height="40" src="https://i.imgur.com/OeTzbJm.png">
+<img align="left" height="40" src="https://i.imgur.com/HU70Yfs.png">
+<img align="left" height="40" src="https://i.imgur.com/Su8g1cR.png">
+<img align="left" height="40" src="https://i.imgur.com/TaE00Gf.png">
+<img align="left" height="40" src="https://i.imgur.com/MHBu0FS.png">
+<img align="left" height="40" src="https://i.imgur.com/3iMXSay.png">
+<img height="40" src="https://i.imgur.com/VgEJgFS.png">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrEzequiel&layout=compact&langs_count=7&theme=dark)](https://github.com/MrEzequiel)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MrEzequiel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ezequieldev.ts/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Zeckkk_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCkkSvYdYZq4F4nGvd4ec-kw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](Zeck#6392)  
+**🚀 Sempre tentando evoluir**
