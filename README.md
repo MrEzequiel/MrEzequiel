@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/KoLSW8b.png" width="100%">
+<img src="https://user-images.githubusercontent.com/85039218/146467589-2b737337-0343-4f69-9ecd-cd27e2a7f9d9.jpg" width="100%">
 
 ### Hi there 👋, eu sou o Ezequiel
 
@@ -9,7 +9,6 @@
 - 💻 Sou desenvolvedor Front End
 - 🚀 Produzindo conteúdo no [instagram](https://www.instagram.com/ezequield3v)
 - 📝 Estou me graduando em Sistemas para Internet
-- ✨ Tentando te ajudar a evoluir no mundo da programação pelo [Youtube](https://www.youtube.com/channel/UCkkSvYdYZq4F4nGvd4ec-kw) (futuramente)
 - 📫 Como você pode me encontar: [linkedIn](https://www.linkedin.com/in/ezequiel-soares-da-silva-b64a64207/) e [instagram](https://www.instagram.com/ezequield3v)
 
 * * *
