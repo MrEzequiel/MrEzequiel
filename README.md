@@ -23,6 +23,8 @@
 <img align="left" height="40" src="https://i.imgur.com/3iMXSay.png">
 <img height="40" src="https://i.imgur.com/VgEJgFS.png">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrEzequiel&layout=compact&langs_count=7&theme=dark)](https://github.com/MrEzequiel)
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=mrezequiel&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/MrEzequiel)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrezequiel&layout=compact&langs_count=5&theme=dark)](https://github.com/MrEzequiel)
 
 **🚀 Sempre tentando evoluir**
