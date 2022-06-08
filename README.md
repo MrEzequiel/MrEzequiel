@@ -6,7 +6,7 @@
 
 **Sobre mim:**
 
-- 💻 Desenvolvedor Front End
+- 💻 Desenvolvedor Front End pela [@usabit](https://usabit.com.br/)
 - 📝 Estou me graduando em Sistemas para Internet
 - 💬 Me pergunte sobre ReactJS, Styled Components, JS.
 - 📫 Como você pode me encontar: [linkedIn](https://www.linkedin.com/in/ezequiel-soares-da-silva-b64a64207/) e [instagram](https://www.instagram.com/ezequield3v)
