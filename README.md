@@ -1,6 +1,6 @@
-<img src="https://user-images.githubusercontent.com/85039218/146467589-2b737337-0343-4f69-9ecd-cd27e2a7f9d9.jpg" width="100%">
+<img width="1250" alt="cover-github (1)" src="https://user-images.githubusercontent.com/85039218/217985838-ae4c8a8a-979a-4afb-b389-52fbc6e2e2b9.png">
 
-### Hi there 👋, eu sou o Ezequiel
+### Olá 👋🏾, eu sou o Ezequiel
 
 * * *
 
@@ -8,8 +8,8 @@
 
 - 💻 Desenvolvedor Front End pela [@usabit](https://usabit.com.br/)
 - 📝 Estou me graduando em Sistemas para Internet
-- 💬 Me pergunte sobre ReactJS, Styled Components, JS.
-- 📫 Como você pode me encontar: [linkedIn](https://www.linkedin.com/in/ezequiel-soares-da-silva-b64a64207/) e [instagram](https://www.instagram.com/ezequield3v)
+- 💬 Me pergunte sobre ReactJS, Styled Components, JS, TS.
+- 📫 Como você pode me encontar: [linkedIn](https://www.linkedin.com/in/ezequiel-soares-da-silva-b64a64207/)
 
 * * *
 
