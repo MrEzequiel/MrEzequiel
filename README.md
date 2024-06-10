@@ -6,7 +6,7 @@
 
 **Sobre mim:**
 
-- 💻 Desenvolvedor Front End pela [@evob](https://www.evob.com.br/)
+- 💻 Desenvolvedor Front End pela [@cayena](https://cayena.com/)
 - 📝 Graduado em Sistemas para Internet
 - 💬 Me pergunte sobre ReactJS, Styled Components, JS, TS.
 - 📫 Como você pode me encontar: [linkedIn](https://www.linkedin.com/in/ezequiel-soares-da-silva-b64a64207/)
